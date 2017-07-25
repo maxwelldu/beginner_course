@@ -3,37 +3,37 @@ Linux基础入门
 1. 目录操作
   - 创建目录
 
-  使用 mkdir 命令创建目录
+    使用 mkdir 命令创建目录
 
-  `mkdir $HOME/testFolder`
+    `mkdir $HOME/testFolder`
 
-- 切换目录
+  - 切换目录
 
-  使用 cd 命令切换目录
+    使用 cd 命令切换目录
 
-  `cd $HOME/testFolder`
+    `cd $HOME/testFolder`
 
-  使用 cd ../ 命令切换到上一级目录
+    使用 cd ../ 命令切换到上一级目录
 
-  `cd ../``
+    `cd ../`
 
-- 移动目录
+  - 移动目录
 
-  使用 mv 命令移动目录
+    使用 mv 命令移动目录
 
-  `mv $HOME/testFolder /var/tmp`
+    `mv $HOME/testFolder /var/tmp`
 
-- 删除目录
+  - 删除目录
 
-  使用 rm -rf 命令删除目录
+    使用 rm -rf 命令删除目录
 
-  `rm -rf /var/tmp/testFolder`
+    `rm -rf /var/tmp/testFolder`
 
-- 查看目录下的文件
+  - 查看目录下的文件
 
-  使用 ls 命令查看 /etc 目录下所有文件和文件夹
+    使用 ls 命令查看 /etc 目录下所有文件和文件夹
 
-  `ls /etc`
+    `ls /etc`
 
 2. 文件操作
 
